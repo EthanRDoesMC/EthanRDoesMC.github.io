@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/ethanrdoesmc_</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Subscribe to my YouTube channel</name>
+			<url>bit.ly/EthanRDoesMC</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+	</footerlinks>
+</repo>
