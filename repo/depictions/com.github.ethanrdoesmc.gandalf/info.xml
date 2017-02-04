@@ -1,7 +1,7 @@
 <package>
-	<id>com.ethanrdoesmc.gandalf</id>
+	<id>com.github.ethanrdoesmc.gandalf</id>
 	<name>Gandalf</name>
-	<version>0.0.0.1</version>
+	<version>0.0.0.1-A</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0.1</miniOS>
@@ -14,25 +14,25 @@
 		<description>Gandalf</description>
 		<description>Keep your jailbreak safe and don't worry about bad tweaks!</description>
 		<description><![CDATA[
-		Current status<br/> 
-		coming soon (tm)
+		Conflicts added by the community<br/> 
+		 at the repo
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>coming-soon</description>
+			<description>No screenshots, but logos will be here soon</description>
 			<image>soon.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>the next big tweak... isnt here yet</description>
+			<description>Logo here soon</description>
 			<image>nope.no</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>soon</change>
-		<change>very</change>
-		<change>plz compile</change>
+		<change>Released</change>
+		<change>Gandalf A, B, and C</change>
+		<change>Multiple versions for different reasons</change>
 	</changelog>
 	<links>
 		<link>
