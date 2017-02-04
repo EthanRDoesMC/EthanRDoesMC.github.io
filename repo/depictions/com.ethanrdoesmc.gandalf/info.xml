@@ -1,0 +1,43 @@
+<package>
+	<id>com.ethanrdoesmc.gandalf</id>
+	<name>Gandalf</name>
+	<version>0.0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Gandalf</description>
+		<description>Keep your jailbreak safe and don't worry about bad tweaks!</description>
+		<description><![CDATA[
+		Current status<br/> 
+		coming soon (tm)
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>coming-soon</description>
+			<image>soon.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>the next big tweak... isnt here yet</description>
+			<image>nope.no</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>soon</change>
+		<change>very</change>
+		<change>plz compile</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
