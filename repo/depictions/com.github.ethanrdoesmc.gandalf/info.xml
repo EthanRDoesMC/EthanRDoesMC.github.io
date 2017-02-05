@@ -1,10 +1,12 @@
 <package>
 	<id>com.github.ethanrdoesmc.gandalf</id>
 	<name>Gandalf</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0.1</miniOS>
+                        <maxiOS>10.2.1</maxiOS>
+                        <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
