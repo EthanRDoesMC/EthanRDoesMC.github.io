@@ -1,7 +1,7 @@
 <package>
 	<id>com.github.ethanrdoesmc.gandalf</id>
 	<name>Gandalf</name>
-	<version>0.0.0.1-A</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0.1</miniOS>
@@ -31,13 +31,13 @@
 	</screenshots>
 	<changelog>
 		<change>Released</change>
-		<change>Gandalf A, B, and C</change>
-		<change>Multiple versions for different reasons</change>
+		<change>Gandalf has been released.</change>
+		<change>Enjoy!</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Gandalf on Github</name>
+			<url>https://github.com/EthanRDoesMC/Gandalf</url>
 		</link>
 	</links>
 </package>
