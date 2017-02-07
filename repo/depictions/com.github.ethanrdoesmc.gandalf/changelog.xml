@@ -1,4 +1,8 @@
-<changelog>
+<changelog>       
+	<changes>
+		<version>1.0.3</version>
+		<change>Updated because so much is ok now</change>
+	</changes>
         <changes>
 		<version>1.0.2</version>
 		<change>More tweaks. BioLockDown is approved.</change>
