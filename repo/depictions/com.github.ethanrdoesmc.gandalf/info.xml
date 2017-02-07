@@ -1,17 +1,14 @@
 <package>
 	<id>com.github.ethanrdoesmc.gandalf</id>
 	<name>Gandalf</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0.1</miniOS>
-                        <maxiOS>10.2.1</maxiOS>
-                        <otherVersions>unsupported</otherVersions>
+			<miniOS>10.2</miniOS>
+                        <maxiOS>10.2</maxiOS>
+                        <otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<descriptionlist>
 		<description>Gandalf</description>
 		<description>Keep your jailbreak safe and don't worry about bad tweaks!</description>
