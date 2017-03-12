@@ -1,0 +1,23 @@
+<package>
+	<id>io.github.ethanrdoesmc.icons</id>
+	<name>Repo Icons</name>
+	<version>1.0</version>
+	<dependencies>
+		<package>cydia</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Icons</description>
+		<description>Icons for my repo</description>
+	</descriptionlist>
+	<changelog>
+		<change>Version 1.0.0</change>
+		<change>category Manager10 (only for Manager10)</change>
+		<change>category Manager_Addons</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>

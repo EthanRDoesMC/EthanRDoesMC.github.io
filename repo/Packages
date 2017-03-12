@@ -1,0 +1,33 @@
+Package: io.github.ethanrdoesmc.gandalf102
+Version: 2.0-beta1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: firmware (>=10.0)
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.gandalf102
+Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
+Size: 1280
+MD5sum: ac5ef43ed9ebd10eabfb202973176c74
+SHA1: e0842dd11d9c1bea7f8ae3aa8bcd8e5864294a2d
+SHA256: b1313f15441351cbfa202ab21b2bec0d174694bd163676bed81e3b166b9448c1
+Section: Manager_Addons
+Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Don't install this if you're using 10.1.1.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.gandalf102
+Name: Gandalf for Yalu102
+
+Package: io.github.ethanrdoesmc.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Filename: debs/io.github.ethanrdoesmc.icons.deb
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.icons
+Size: 225000
+MD5sum: 6fb12ce5329a11abf4b7d196913d145d
+SHA1: 0fa9f3eb9aaa5bfe2705ca62fd43e6adc915382f
+SHA256: cf0221d0cc651154c88b7dc112892b2bd10dc085a3c3995b18eb73955beac3b8
+Section: Packaging
+Description: Installs repository icons.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.icons
+Name: Repo Icons
+

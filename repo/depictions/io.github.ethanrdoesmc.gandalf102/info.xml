@@ -1,10 +1,10 @@
 <package>
-	<id>com.github.ethanrdoesmc.gandalf</id>
+	<id>io.github.ethanrdoesmc.gandalf</id>
 	<name>Gandalf</name>
-	<version>1.1/version>
+	<version>2.0-beta1/version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.2</miniOS>
+			<miniOS>10.0</miniOS>
                         <maxiOS>10.2</maxiOS>
                         <otherVersions>unconfirmed</otherVersions>
 		</firmware>
@@ -29,9 +29,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Released</change>
-		<change>Gandalf has been released.</change>
-		<change>Enjoy!</change>
+		<change>2.0-Beta1</change>
+		<change>included for now until manager lives.</change>
+		<change>always wants to update.change>
 	</changelog>
 	<links>
 		<link>
