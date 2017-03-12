@@ -5,10 +5,10 @@ Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depends: firmware (>=10.0)
 Replaces: com.github.ethanrdoesmc.gandalf
 Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
-Size: 1296
-MD5sum: d0daee760c5959db3c2416e9b57031b7
-SHA1: 2476405f3cea0a92116ebfbcdae1873abb1dafe0
-SHA256: 5fee95ff3ec05625363ad5ce214938648333b86fe2d9f7ab69a65b9d3e51641f
+Size: 1290
+MD5sum: 60603e0ad8e0e8b4b02c58541aa2670e
+SHA1: 40b05ba5901ecf82421fdee0a4834e47dd8df87a
+SHA256: cdcef88559ac2b1a631f2e094992e1537f38299706d048b898aaabba8dfcbb6b
 Section: Manager_Addons
 Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Don't install this if you're using 10.1.1.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
@@ -20,11 +20,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Filename: debs/io.github.ethanrdoesmc.icons.deb
-Size: 225000
-MD5sum: 6fb12ce5329a11abf4b7d196913d145d
-SHA1: 0fa9f3eb9aaa5bfe2705ca62fd43e6adc915382f
-SHA256: cf0221d0cc651154c88b7dc112892b2bd10dc085a3c3995b18eb73955beac3b8
+Size: 225018
+MD5sum: a2e4c5cc5433db399f2d875c657132a0
+SHA1: 5a50a7dc9edce7b2f1208c2905354ae8fe3ee0d5
+SHA256: 94d95782ac83741702d0bf26b30fa3cd0754faa9cfddd0cd9ca1d7c519aec5c4
 Section: Packaging
+Priority: Required
 Description: Installs repository icons.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.icons
