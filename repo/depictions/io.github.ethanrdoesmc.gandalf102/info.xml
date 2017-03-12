@@ -1,7 +1,7 @@
 <package>
 	<id>io.github.ethanrdoesmc.gandalf102</id>
-	<name>Gandalf</name>
-	<version>2.0-beta1/version>
+	<name>Gandalf for Yalu102</name>
+	<version>2.0-beta1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -31,7 +31,7 @@
 	<changelog>
 		<change>2.0-Beta1</change>
 		<change>included for now until manager lives.</change>
-		<change>always wants to update.change>
+		<change>always wants to update.</change>
 	</changelog>
 	<links>
 		<link>
@@ -39,4 +39,6 @@
 			<url>https://github.com/EthanRDoesMC/Gandalf</url>
 		</link>
 	</links>
-</package>
+	
+		
+		</package>
