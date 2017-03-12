@@ -3,11 +3,12 @@ Version: 2.0-beta1
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depends: firmware (>=10.0)
+Replaces: com.github.ethanrdoesmc.gandalf
 Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
-Size: 1280
-MD5sum: ac5ef43ed9ebd10eabfb202973176c74
-SHA1: e0842dd11d9c1bea7f8ae3aa8bcd8e5864294a2d
-SHA256: b1313f15441351cbfa202ab21b2bec0d174694bd163676bed81e3b166b9448c1
+Size: 1296
+MD5sum: d0daee760c5959db3c2416e9b57031b7
+SHA1: 2476405f3cea0a92116ebfbcdae1873abb1dafe0
+SHA256: 5fee95ff3ec05625363ad5ce214938648333b86fe2d9f7ab69a65b9d3e51641f
 Section: Manager_Addons
 Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Don't install this if you're using 10.1.1.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
