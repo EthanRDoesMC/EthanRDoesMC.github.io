@@ -15,17 +15,34 @@ Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.gandalf102
 Name: Gandalf for Yalu102
 
+Package: io.github.ethanrdoesmc.gandalfp7
+Version: 2.0-beta1
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: firmware (>=7.0)
+Conflicts: com.supermamon.newpackage
+Filename: debs/io.github.ethanrdoesmc.gandalfp7_2.0-beta1_iphoneos-arm.deb
+Size: 882
+MD5sum: b27f08428479d299b9c3622a237979e7
+SHA1: 1b0161dd4982d80f78dbc2754d7bc611a0f26ed7
+SHA256: 69987e64502cdd96911a2fcf1e5c7f2e9e340eb4291d8c04bb0f04cbd3d046d4
+Section: Manager_Addons
+Description: Blocks incompatible tweaks on Pangu 7. Q&D.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.gandalfp7
+Name: Gandalf for Pangu 7
+
 Package: io.github.ethanrdoesmc.icons
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Filename: debs/io.github.ethanrdoesmc.icons.deb
-Size: 225018
-MD5sum: a2e4c5cc5433db399f2d875c657132a0
-SHA1: 5a50a7dc9edce7b2f1208c2905354ae8fe3ee0d5
-SHA256: 94d95782ac83741702d0bf26b30fa3cd0754faa9cfddd0cd9ca1d7c519aec5c4
+Size: 282046
+MD5sum: 4fa5f5a1510ffc6a9d6c2200e879ee76
+SHA1: c5d6f781a350211a5ede5cd4339a40f6c9237b65
+SHA256: 1eaaf25ee44f390b2cffabc620c95209bb49637c36343b3eb13d1b842356e900
 Section: Packaging
-Priority: Required
+Priority: required
 Description: Installs repository icons.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.icons
