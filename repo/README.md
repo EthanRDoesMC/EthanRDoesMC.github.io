@@ -1,4 +1,4 @@
-#EthanRDoesMC's Repo Thing
+# EthanRDoesMC's Repo Thing
 
 I put lyrics from a different song or line from a story or poem into the Release file every time I update something in the repo. Here's what's been in it so far.
 
