@@ -26,5 +26,6 @@ Even If by MercyMe
 
 Lifer (Prerelease album in iTunes)
 
+# Notes
 
 echo "Hello World!" >> every-device-ive-touched
