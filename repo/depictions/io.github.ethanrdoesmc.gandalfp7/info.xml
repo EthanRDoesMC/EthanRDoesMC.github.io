@@ -1,18 +1,21 @@
 <package>
-	<id>io.github.ethanrdoesmc.gandalf102</id>
-	<name>Gandalf for Yalu102</name>
-	<version>2.0-beta2</version>
+	<id>io.github.ethanrdoesmc.gandalfp7</id>
+	<name>Gandalf for Pangu 7</name>
+	<version>2.0-beta1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-                        <maxiOS>10.2</maxiOS>
+			<miniOS>7.0</miniOS>
+                        <maxiOS>7.1.2</maxiOS>
                         <otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<descriptionlist>
 		<description>Gandalf</description>
 		<description>Keep your jailbreak safe and don't worry about bad tweaks!</description>
-		<description>Please run `echo io.github.ethanrdoesmc.gandalf102 hold | dpkg --set-selections` as su in a terminal.
+		<description><![CDATA[
+		Conflicts added by the community<br/> 
+		 at the repo
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
@@ -26,9 +29,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>2.0-Beta2</change>
-		<change>cleans up old things</change>
-		<change>getting more and more stable</change>
+		<change>2.0-Beta1</change>
+		<change>included for now until manager lives.</change>
+		<change>always wants to update.</change>
 	</changelog>
 	<links>
 		<link>
