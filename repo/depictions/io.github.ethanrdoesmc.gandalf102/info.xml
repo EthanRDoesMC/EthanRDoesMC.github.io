@@ -12,8 +12,6 @@
 	<descriptionlist>
 		<description>Gandalf</description>
 		<description>Keep your jailbreak safe and don't worry about bad tweaks!</description>
-		<description>Please run `echo io.github.ethanrdoesmc.gandalf102 hold | dpkg --set-selections` as su in a terminal.
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -26,9 +24,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>2.0-Beta2</change>
-		<change>cleans up old things</change>
-		<change>getting more and more stable</change>
+		<change>2.0-Delta2</change>
+		<change>Contains the Alpacalypse</change>
+		<change>Only missing Manager at this point.</change>
 	</changelog>
 	<links>
 		<link>
