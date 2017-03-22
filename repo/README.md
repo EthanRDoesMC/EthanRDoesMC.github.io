@@ -26,6 +26,15 @@ Even If by MercyMe
 
 Lifer (Prerelease album in iTunes)
 
+# 4
+"We have hope, rebellions are built on hope"
+
+Actual line: "We have hope. Rebellions are built on hope!!"
+
+Rogue One: A Star Wars Story
+
 # Notes
 
 echo "Hello World!" >> every-device-ive-touched
+
+update.sh updates the Packages files.
