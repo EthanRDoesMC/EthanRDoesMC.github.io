@@ -1,5 +1,9 @@
 <changelog> 
 	<changes>
+		<version>2.1.2</version>
+		<change>Fixed the app</change>
+	</changes>    
+	<changes>
 		<version>2.1.1</version>
 		<change>AYY LMBO</change>
 	</changes>    
