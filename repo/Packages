@@ -1,5 +1,5 @@
 Package: io.github.ethanrdoesmc.gandalf102
-Version: 2.1.1
+Version: 2.1.2
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depends: firmware (>=10.0), sudo
@@ -7,9 +7,9 @@ Breaks: ch.sebikeller.automuter, com.a3tweaks.auxo3ios9, com.alexzielenski.tinyb
 Replaces: com.enduniverse.cydiaextenderplus, com.github.ethanrdoesmc.gandalf, com.github.ethanrdoesmc.gandalf102
 Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
 Size: 29600108
-MD5sum: 3246b1c432097eafbd2a3caa9d08cae7
-SHA1: 6c151bdb16e04572d88d2013344b1ea8cd932a47
-SHA256: 3264cdadca6fbfd5f7ead34ad396a15a588532506b57a430846f52055f0931f4
+MD5sum: 932bff10b8c133983aebbd8165512a4d
+SHA1: 09adf948e0af251d546df6cdcc4bcbdff7070450
+SHA256: b05cea7ef0cc2049ddc9213a13f177e6cc8560896459a99c9f378a2e226e1de7
 Section: Manager_Addons
 Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
