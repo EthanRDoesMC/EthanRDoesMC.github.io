@@ -1,15 +1,11 @@
 <changelog> 
 	<changes>
-<<<<<<< HEAD
 		<version>2.1.3</version>
 		<change>No more size issue</change>
 	</changes>   
-	
-=======
 		<version>2.1.2</version>
 		<change>Fixed the app</change>
 	</changes>    
->>>>>>> origin/master
 	<changes>
 		<version>2.1.1</version>
 		<change>AYY LMBO</change>
