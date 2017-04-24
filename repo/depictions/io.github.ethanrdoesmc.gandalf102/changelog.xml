@@ -1,5 +1,9 @@
 <changelog> 
 	<changes>
+		<version>2.2</version>
+		<change>Better App</change>
+	</changes>
+	<changes>
 		<version>2.1.5</version>
 		<change>Saved Even more Space</change>
 	</changes>
