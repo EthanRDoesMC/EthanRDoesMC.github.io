@@ -1,37 +1,20 @@
 Package: io.github.ethanrdoesmc.gandalf102
-Version: 2.2
+Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depends: firmware (>=10.0), sudo, com.officialscheduler.mterminal
 Breaks: ch.sebikeller.automuter, com.a3tweaks.auxo3ios9, com.alexzielenski.tinybar, com.enduniverse.cydiaextenderplus, com.bolencki13.appendix, com.cpdigitaldarkroom.volumebanner, com.creatix.hoppin, com.creatix.carrot, com.fidele007.hotdog (<= 3.3.3-25), com.inasser.ariki, com.microseconds.iblank, com.strayadevteam.forcy, com.supermamon.newpackage, eu.heinelt.ifile, me.chewitt.cmc, me.chewitt.mcpro, me.chewitt.seng, net.angelxwind.appsyncunified (<= 5.8), openssh, org.coolstar.classicfolders, org.protectmyprivacy.pmp, org.thebigboss.andrios, org.thebigboss.protean, org.thebigboss.spin, org.thebigboss.vertex, com.bengiannis.nougatshortcuts
 Replaces: com.enduniverse.cydiaextenderplus, com.github.ethanrdoesmc.gandalf, com.github.ethanrdoesmc.gandalf102
 Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
-Size: 32054452
-MD5sum: 9d401a4e8c6c15b28542b2ea4bb80fe9
-SHA1: c799d2573676890166cffb5e94f5f09305d3398e
-SHA256: 4f16cc73adffc8933d3857d9d05be82a4dcf2f8e1ee117a91cafdf0f7687fb76
+Size: 32142526
+MD5sum: 0bac3299175dfcae63777d7e7b398de1
+SHA1: f441341cef1b1aef8c3090706d1fda22dea1b0c5
+SHA256: a405ad057efd5e1554a4c51e038ffa71d67455c125ddd406d28b6e1b17174477
 Section: Manager_Addons
 Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Depiction: https://ethanrdoesmc.github.io/gandalf/docs/depictions/?p=io.github.ethanrdoesmc.gandalf102
 Name: Gandalf for Yalu102
-
-Package: io.github.ethanrdoesmc.gandalfp7
-Version: 2.0-beta1
-Architecture: iphoneos-arm
-Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Depends: firmware (>=7.0)
-Conflicts: com.supermamon.newpackage
-Filename: debs/io.github.ethanrdoesmc.gandalfp7_2.0-beta1_iphoneos-arm.deb
-Size: 888
-MD5sum: f1d1debf71239aad5e354af1461f1107
-SHA1: 8dd5ac0720c109e97f0267db9eab72ca61df63cb
-SHA256: 4d55471e60c615a170bb9607465266dee13ca06eb2248b3cebb764baca56e58a
-Section: Manager789_and_Addons
-Description: Blocks incompatible tweaks on Pangu 7. Q&D.
-Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.gandalfp7
-Name: Gandalf for Pangu 7
 
 Package: io.github.ethanrdoesmc.icons
 Version: 1.1
