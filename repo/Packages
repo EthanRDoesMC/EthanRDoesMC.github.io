@@ -1,26 +1,26 @@
-Package: io.github.ethanrdoesmc.gandalf102
-Version: 2.4-lastgandalfdebforthisrepo
+Package: io.github.ethanrdoesmc.gandalf
+Version: 2
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Filename: debs/io.github.ethanrdoesmc.gandalf102.deb
-Size: 822
-MD5sum: 3b9eec45f6351d4bec7ffd142401d213
-SHA1: 51cd8898d86bd60b0eaaffb1beb15d8e6aedc93a
-SHA256: 9211c8930f0ef9167dff28e3d1ee9cee88a5d8e45fb65bb5b9c4e0ed86043b9f
+Filename: debs/io.github.ethanrdoesmc.gandalf.deb
+Size: 798
+MD5sum: 39a7e8d4cf45cbb73a1561a8be5212af
+SHA1: 8d8ff9c5b14914a3c1a31cadef6496c668ecdd63
+SHA256: 6b0fd1b3371e35caa644ef01fe0f8036709035cc9e22bc7f9b55073a95150153
 Section: Misc
 Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Adds Gandalf repo.
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Name: Gandalf
 
 Package: io.github.ethanrdoesmc.icons
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Filename: debs/io.github.ethanrdoesmc.icons.deb
-Size: 282046
-MD5sum: 4fa5f5a1510ffc6a9d6c2200e879ee76
-SHA1: c5d6f781a350211a5ede5cd4339a40f6c9237b65
-SHA256: 1eaaf25ee44f390b2cffabc620c95209bb49637c36343b3eb13d1b842356e900
+Size: 158032
+MD5sum: 686973afeaf04045ed5eb9cc61db814e
+SHA1: 85f1add66116d3d1d8bff7e1db92fe92b31f0881
+SHA256: 1697ce9b4ff2d0bb7ae3415de0405d6e27d4368a51c4c95e1fed7b9c31c64c54
 Section: Packaging
 Priority: required
 Description: Installs repository icons.

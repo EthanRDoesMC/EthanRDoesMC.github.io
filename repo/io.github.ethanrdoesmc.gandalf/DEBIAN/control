@@ -1,0 +1,8 @@
+Package: io.github.ethanrdoesmc.gandalf
+Name: Gandalf
+Version: 2
+Architecture: iphoneos-arm
+Description: Some tweaks may break jailbreaks. Let this tweak say "You Shall Not Pass!" to incompatible tweaks and you can sit back and have fun with your jailbreak. Adds Gandalf repo. 
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Section: Misc
