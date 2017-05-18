@@ -1,3 +1,50 @@
+Package: io.github.ethanrdoesmc.ekolu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/io.github.ethanrdoesmc.ekolu.deb
+Size: 4016646
+MD5sum: 425bffbb4c3ab35d47e635af9694a16d
+SHA1: 0936aca7ff1a8c1ac369aacdb3134c7bdd8001b2
+SHA256: b84c858db5fa85dc07b37b94f7b9053896ccb1afb680557f0eb165f902d7834d
+Section: Themes
+Description: 'ekolu is a tropical-themed 100%-free setup.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolu/
+Name: 'ekolu
+
+Package: io.github.ethanrdoesmc.ekolureposrcs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Filename: debs/io.github.ethanrdoesmc.ekolureposrcs.deb
+Size: 960
+MD5sum: 16a351ce58b2f6a969ce5873691cba25
+SHA1: 262e1e7e1dcbee716afdb6a08d76e0fcce91726e
+SHA256: 9f7b7c01dcc559266d4f9599568a3827e37a316d0233774381f99d2d4265d864
+Section: Repositories
+Description: 'ekolu is a tropical-themed 100%-free setup. This is the first package.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolureposrcs/
+Name: 'ekolu Required Repos
+
+Package: io.github.ethanrdoesmc.ekolutweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depends: com.xtm3x.asquared, org.thebigboss.blurrybadges, applebetas.ios.tweak.blurrycc10, com.cabralcole.blurrydock, com.antique.blurst, com.wizages.bab, com.thecasle.ccdark, com.skylerk99.chargepulse, com.fromderik.ccc, applebetas.ios.tweak.cleannotifications10, com.fromderik.darkios10, com.sticktron.darkmessages, com.golddavid.dontstoptheparty.lite, com.spark.easyrecord, com.aditkamath.flame, com.skylerk99.floater, com.joshdoctors.freeloader, com.xtm3x.integrate, com.sinfool.kbblurbackground, xyz.evilgoldfish.lockglyphx, com.bushe.lockhtml4, com.bushe.lockscreengesturecleanup, com.aditkamath.lscrease, com.wizages.bae, io.c0ldra1n.mitsuha, me.dreamdesign.moderndock, com.officialscheduler.mterminal, com.sinfool.ncfrostedblur, com.candoizo.onion, com.skylerk99.rembat, org.thebigboss.respringprogress, com.ps.roundedtable, com.xtm3x.sleekkey, com.wizages.springchanger, com.rishanan.springplus, com.atwiiks.stillhere, org.thebigboss.swipeformore, com.misterjrw.syncloader, com.gilshahar7.taptoopen, com.spark.tinysiri, com.samstone.translucentcydia, applebetas.ios.tweak.translucentmessages, com.yourepo.haste.wave, com.spark.wiilovemusic, com.misterjrw.yoseloader, com.ps.sixtyfps, io.github.ethanrdoesmc.ekolureposrcs, com.tigisoftware.filza, ws.hbang.typestatus2
+Filename: debs/io.github.ethanrdoesmc.ekolutweaks.deb
+Size: 1252
+MD5sum: 4c5bdc16ae50a6c996a77469c5da9188
+SHA1: 8cf724197a61402f93305c7d83884e04d14022f7
+SHA256: 9100c68204ab06cc31ce42f75a07417846d4e23dcec012b1ad18bf8c5e96c1b5
+Section: Addons
+Description: 'ekolu is a tropical-themed 100%-free setup. This is the second package.
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Depiction: https://ethanrdoesmc.github.io/repo/depictions/?p=io.github.ethanrdoesmc.ekolutweaks/
+Name: 'ekolu Tweaks
+
 Package: io.github.ethanrdoesmc.gandalf
 Version: 2
 Architecture: iphoneos-arm
