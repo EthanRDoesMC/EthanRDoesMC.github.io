@@ -784,6 +784,7 @@
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		text-align: center;
+		-webkit-backdrop-filter: blur(10px);
 	}
 
 		#footer .copyright {
