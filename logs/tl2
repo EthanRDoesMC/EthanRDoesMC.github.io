@@ -1,0 +1,363 @@
+Aug 31 15:48:53 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29707264 score: -10.091887
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/TimeZone.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/CompassCalibration.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/MotionCalibration.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppSuggestions.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client 'com.apple.AppStore'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WltNotify, <private>, <private>, clients S/B, <private>, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: Fence: fLastScanResult, <private>, age, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmFind, nrx, <private>, <private>, <private>, loc, 1, completemiss, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmMiss, count, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmFind, results, searched, <private>, neighbor, <private>, remaining, <private>, ALS, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WltStep, ScanResultAps, <private>, clients?, <private>, doCalc, <private>, knownAps, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WltStep, APs, currScan, <private>, inCache, <private>, validLoc, <private>, tooOld, <private>, unknown, <private>, inFix, <private>, dist50m, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WltStep, Fix, aps, <private>, of, <private>, ll, <private>, <private>, hacc, <private>
+Aug 31 15:48:53 Ethans-Mini-4 timed[59] <Info>: Client 60 issued command: {
+    TMCommand = TMGetReferenceTime;
+Aug 31 15:48:53 Ethans-Mini-4 timed[59] <Info>: Returning reference time to client: {
+    TMCurrentTime = "525905333.8363326";
+    TMReliability = 1;
+    TMRtcTime = "26060687.64067";
+    TMScaleFactor = "0.9999969240260078";
+    TMScaleFactorError = "1.010076186070744e-05";
+    TMSource = TMTimeSynthesizer;
+    TMTimeError = "0.02112309530309755";
+}
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: @ClxWifi, Fix, 1, ll, <private>, <private>, acc, 35.07, course, -1.0
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: @ClxClient, Fix, 1, ll, <private>, <private>, acc, 65.00, speed, <private>, course, <private>, type, 4
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: {"msg":"Notifying clients with location", "location":"<private>", "":"", "notification":"<private>"}
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"#Stream Received notification", "notification":"4"}
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"#Stream Stopping location for source", "source":"0"}
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: {"msg":"#Stream notifying", "client":"<CLIntersiloProxy: peer silo:CLFilteredLocationControllerSilo, peer tag:5701167648>", "notification":"4"}
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmDl, request, llsw, <private>, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmDl, attempts, llsw, <private>, <private>, lastSuccess, <private>, existsOnServer, <private>, sinceLastDownload, <private>, expired, <private>, path, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: WtmFind, nrx, <private>, <private>, <private>, loc, 1, completemiss, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Notice>: Sending location to client </System/Library/LocationBundles/Routine.bundle>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: ClxClient, location, <private>, type, <private>, accuracy, <private>
+Aug 31 15:48:53 Ethans-Mini-4 locationd[60] <Info>: received location, <private>
+Aug 31 15:48:53 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: received location, <private>
+Aug 31 15:48:54 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Add 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:48:54 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: connect_callback: Adding FD for uid 501
+Aug 31 15:48:54 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(100, 0, 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) START PID[136](homed)
+Aug 31 15:48:54 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StartQuery_internal: NumAllInterfaceRecords 18 NumAllInterfaceQuestions 4 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:48:54 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) ADD    1 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. TXT
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Unregistering for gyro notifications
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Unregistering for gyro temperature notifications
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Unregistering for magnetometer notifications
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: IOHIDServiceClientSetProperty() successfully set property for event <private>
+Aug 31 15:48:54 Ethans-Mini-4 locationd[60] <Info>: Property for usage pair {<private>,<private>}: {<private> = <private>} was set <private>
+Aug 31 15:48:54 Ethans-Mini-4 Trinity(Trinity)[273] <Notice>: subsystem: com.apple.UIKit, category: Touch, enable_level: 0, persist_level: 0, default_ttl: 1, info_ttl: 0, debug_ttl: 0, generate_symptoms: 0, enable_oversize: 1, privacy_setting: 2, enable_private_data: 0
+Aug 31 15:48:54 Ethans-Mini-4 Trinity(Trinity)[273] <Notice>: subsystem: com.apple.UIKit, category: Gesture, enable_level: 0, persist_level: 0, default_ttl: 1, info_ttl: 0, debug_ttl: 0, generate_symptoms: 0, enable_oversize: 1, privacy_setting: 2, enable_private_data: 0
+Aug 31 15:48:54 Ethans-Mini-4 Trinity(Trinity)[273] <Notice>: subsystem: com.apple.UIKit, category: GestureEnvironment, enable_level: 0, persist_level: 0, default_ttl: 1, info_ttl: 0, debug_ttl: 0, generate_symptoms: 0, enable_oversize: 1, privacy_setting: 2, enable_private_data: 0
+Aug 31 15:48:54 Ethans-Mini-4 Trinity(Trinity)[273] <Notice>: subsystem: com.apple.UIKit, category: GestureExclusion, enable_level: 0, persist_level: 0, default_ttl: 1, info_ttl: 0, debug_ttl: 0, generate_symptoms: 0, enable_oversize: 1, privacy_setting: 2, enable_private_data: 0
+Aug 31 15:48:54 Ethans-Mini-4 SpringBoard(KeyboardArbiter)[54] <Info>: HW kbd: currently they.call.me.trinity ((null) < they.call.me.trinity)
+Aug 31 15:48:54 Ethans-Mini-4 Trinity[273] <Notice>: [+] offsets_get_init_func:(os/kern) successful: model: J96AP
+Aug 31 15:48:54 Ethans-Mini-4 Trinity[273] <Notice>: [+] offsets_get_init_func:(os/kern) successful: build: 14C92
+Aug 31 15:48:54 Ethans-Mini-4 Trinity[273] <Notice>: [+] remote_IOServiceOpen:(os/kern) aborted: Opening IOUserClient remotely...
+Aug 31 15:48:54 Ethans-Mini-4 Trinity[273] <Notice>: [+] remote_IOServiceOpen:(os/kern) aborted: Loading task port list...
+Aug 31 15:48:55 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"adapter details", "adaperDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+Aug 31 15:48:55 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"battery capacity info", "batteryStatus":"<private>", "":"", "currentCapacity":"", "maximumCapacity":"4464", "batteryIsDifferent":"-64"}
+Aug 31 15:48:55 Ethans-Mini-4 coreduetd[96] <Notice>: CDDBatteryMonitor:	received batterycallback, currentPercentage:93.000000!
+Aug 31 15:48:55 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29737984 score: -10.091887
+Aug 31 15:48:56 Ethans-Mini-4 locationd[60] <Info>: GeniusForApp: notification, <private>, <private>, pid, <private>, bundleId, <private>
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: client, <private>, called, <private>
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: client, <private>, called, <private>
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: routine mode of <<private>, <private>>, Local
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: Found an LOI within 200.00m of <<private>, <private>>, loi, <private>, <<private>,<private>> +/- 21.907583
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: found 1 LOIs within 200.00 m of <private>
+Aug 31 15:48:56 Ethans-Mini-4 locationd[60] <Info>: GeniusForApp: fetched routineMode <private> at <<private>, <private>>
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: sending 1 locations within 200.00 m of <private>
+Aug 31 15:48:56 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: LOI 1, <private>
+Aug 31 15:48:56 Ethans-Mini-4 locationd[60] <Info>: GeniusForApp: fetched loi of type <private> at <<private>, <private>>
+Aug 31 15:48:56 Ethans-Mini-4 locationd[60] <Info>: GeniusForApp: routineMode, <private>, loiType, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: WltNotify, <private>, <private>, clients S/B, <private>, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: WtmFind, nrx, <private>, <private>, <private>, loc, 1, completemiss, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: Fence: fLastScanResult, <private>, age, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: WtmMiss, count, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: WtmFind, results, searched, <private>, neighbor, <private>, remaining, <private>, ALS, <private>
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Info>: WltStep, ScanResultAps, <private>, clients?, <private>, doCalc, <private>, knownAps, <private>
+Aug 31 15:48:57 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29768704 score: -10.091887
+Aug 31 15:48:57 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/MagicalMoments.bundle'
+Aug 31 15:48:58 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: will start tagging with micro location, <private>
+Aug 31 15:48:58 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: Processing realtime <private>: <private>
+Aug 31 15:48:58 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Debug>: Object, <private>, active transactions, 1
+Aug 31 15:48:58 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Debug>: total active transactions, 1
+Aug 31 15:48:58 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Debug>: begin transaction
+Aug 31 15:48:59 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29799424 score: -10.091887
+Aug 31 15:48:59 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Info>: Dropping notification of predicted applications because there are no predicted applications.
+Aug 31 15:48:59 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Debug>: total active transactions, 0
+Aug 31 15:48:59 Ethans-Mini-4 routined(libcoreroutine.dylib)[31] <Debug>: end transaction
+Aug 31 15:48:59 Ethans-Mini-4 SpringBoard(FrontBoard)[54] <Info>: setting object for key=XBApplicationSnapshotManifest bundleID=<private> object=<private>
+Aug 31 15:48:59 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Rmv 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:48:59 Ethans-Mini-4 homed(HomeKitDaemon)[136] <Info>: [HMDHTTPMessageTransport EBFA8FD9-1052-5A21-B7FB-F6F846B8A0A5] Client is no longer advertising: <HMFNetService, Domain = local., Type = _homekit._tcp., Name = 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3, Port = 18446744073709551615, Addresses = (null)>
+Aug 31 15:48:59 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) STOP PID[136](homed)
+Aug 31 15:48:59 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StopQuery_internal:  NumAllInterfaceRecords 18 NumAllInterfaceQuestions 3 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:48:59 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: Removing FD
+Aug 31 15:49:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/NavdLocationBundleiOS.bundle'
+Aug 31 15:49:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/NavdLocationBundleiOS.bundle'
+Aug 31 15:49:00 Ethans-Mini-4 SpringBoard(FrontBoard)[54] <Info>: setting object for key=XBApplicationSnapshotManifest bundleID=<private> object=<private>
+Aug 31 15:49:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/RemindersAlerts.bundle'
+Aug 31 15:49:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/CalendarLocation.bundle'
+Aug 31 15:49:01 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29830144 score: -10.091887
+Aug 31 15:49:02 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29860864 score: -10.091887
+Aug 31 15:49:04 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 149
+Aug 31 15:49:04 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 149
+Aug 31 15:49:04 Ethans-Mini-4 useractivityd[147] <Info>: IdleTracker: AdvertiserCurrent: mostSignificantLevel=Inactive wasActive weakSelf=0x100414ee0
+Aug 31 15:49:04 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29891584 score: -10.091887
+Aug 31 15:49:06 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29922304 score: -10.091887
+Aug 31 15:49:08 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29953024 score: -10.091887
+Aug 31 15:49:10 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 29983744 score: -10.091887
+Aug 31 15:49:12 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30014464 score: -10.091887
+Aug 31 15:49:14 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30045184 score: -10.091887
+Aug 31 15:49:14 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client 'com.apple.Home'
+Aug 31 15:49:15 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/BulletinBoard.framework'
+Aug 31 15:49:15 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"adapter details", "adaperDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+Aug 31 15:49:15 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"battery capacity info", "batteryStatus":"<private>", "":"", "currentCapacity":"", "maximumCapacity":"4650", "batteryIsDifferent":"-120"}
+Aug 31 15:49:15 Ethans-Mini-4 coreduetd[96] <Notice>: CDDBatteryMonitor:	received batterycallback, currentPercentage:93.000000!
+Aug 31 15:49:16 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30075904 score: -10.091887
+Aug 31 15:49:18 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30106624 score: -10.091887
+Aug 31 15:49:19 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/FMF.framework'
+Aug 31 15:49:19 Ethans-Mini-4 notification_proxy(MobileSystemServices)[221] <Notice>: 0x16dfc7000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Aug 31 15:49:19 Ethans-Mini-4 notification_proxy(MobileSystemServices)[221] <Notice>: 0x16deaf000 -[MNPLockdownConnection receiveMessage]: lockdown_receive_message error!
+Aug 31 15:49:19 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 150
+Aug 31 15:49:19 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 150
+Aug 31 15:49:20 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30137344 score: -10.091887
+Aug 31 15:49:22 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30168064 score: -10.091887
+Aug 31 15:49:24 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30198784 score: -10.091887
+Aug 31 15:49:24 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: Activity level changed 11 (User) -> 7 (Screen)
+Aug 31 15:49:24 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: User became inactive. Linger advertise for 5 seconds
+Aug 31 15:49:25 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30229504 score: -10.091887
+Aug 31 15:49:26 Ethans-Mini-4 syncdefaultsd[269] <Info>: marked "com.me.keyvalueservice" topic as "enabled" on <private>
+Aug 31 15:49:26 Ethans-Mini-4 apsd(PersistentConnection)[85] <Notice>: 2017-08-31 15:49:26 -0500 apsd[85]: Looking up connection on peer: 3efde0   found <APSConnectionServer: 0x100283270>
+Aug 31 15:49:26 Ethans-Mini-4 apsd(PersistentConnection)[85] <Notice>: 2017-08-31 15:49:26 -0500 apsd[85]: peer(269) received XPC_ERROR_CONNECTION_INVALID
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-com.apple.timed: Invalidating simple timer <PCSimpleTimer: 0x103304590>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003f64a0> is invalidated 
+Callstack (
+	0   PersistentConnection                0x00000001946b55cc <redacted> + 116
+	1   PersistentConnection                0x00000001946b2fb8 <redacted> + 292
+	2   com.apple.BackgroundTaskAgentPlugin 0x0000000100753b34 com.apple.BackgroundTaskAgentPlugin + 15156
+	3   com.apple.BackgroundTaskAgentPlugin 0x0000000100752d8c com.apple.BackgroundTaskAgentPlugin + 11660
+	4   com.apple.BackgroundTaskAgentPlugin 0x0000000100752978 com.apple.BackgroundTaskAgentPlugin + 10616
+	5   libdispatch.dylib                   0x000000019076e1bc <redacted> + 16
+	6   libdispatch.dylib                   0x000000019077af94 <redacted> + 576
+	7   libdispatch.dylib                   0x0000000190787634 <redacted> + 204
+	8   libdispatch.dylib                   0x0000000190770160 <redacted> + 820
+	9   libdispatch.dylib                   0x000000019077c210 <redacted> + 468
+	10  libdispatch.dylib                   0x00000001907719a4 <redacte
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003f64a0> dealloced
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e7b60> is invalidated 
+Callstack (
+	0   PersistentConnection                0x00000001946b55cc <redacted> + 116
+	1   PersistentConnection                0x00000001946b2fd4 <redacted> + 320
+	2   com.apple.BackgroundTaskAgentPlugin 0x0000000100753b34 com.apple.BackgroundTaskAgentPlugin + 15156
+	3   com.apple.BackgroundTaskAgentPlugin 0x0000000100752d8c com.apple.BackgroundTaskAgentPlugin + 11660
+	4   com.apple.BackgroundTaskAgentPlugin 0x0000000100752978 com.apple.BackgroundTaskAgentPlugin + 10616
+	5   libdispatch.dylib                   0x000000019076e1bc <redacted> + 16
+	6   libdispatch.dylib                   0x000000019077af94 <redacted> + 576
+	7   libdispatch.dylib                   0x0000000190787634 <redacted> + 204
+	8   libdispatch.dylib                   0x0000000190770160 <redacted> + 820
+	9   libdispatch.dylib                   0x000000019077c210 <redacted> + 468
+	10  libdispatch.dylib                   0x00000001907719a4 <redacte
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e7b60> dealloced
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-com.apple.timed: Started simple timer <PCSimpleTimer: 0x103304110> with fire date [2017-08-31 15:52:52 -0500]
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e7340> initialized with target <PCSimpleTimer: 0x103304110> selector _preventSleepFired timerSource <OS_dispatch_source: 0x1003b82e0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003ce680> initialized with target <PCSimpleTimer: 0x103304110> selector _fireTimerFired timerSource <OS_dispatch_source: 0x103305560>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-com.apple.timed: <PCSimpleTimer: 0x103304110> created preventSleepTimer <PCDispatchTimer: 0x1003e7340> and fireTimer <PCDispatchTimer: 0x1003ce680> on queue <OS_dispatch_queue: PCSimpleTimer-timerQ[0x10330e610]>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003ce680> start with target <CUTWeakReference: 0x1003faa70> selector _fireTimerFired firetime 18446744073709551615 timerSource <OS_dispatch_source: 0x103305560>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e7340> start with target <CUTWeakReference: 0x103302fc0> selector _preventSleepFired firetime 18446744073709551615 timerSource <OS_dispatch_source: 0x1003b82e0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e7340> setFireDate 4001-01-01 00:00:00 +0000 and start with target <PCSimpleTimer: 0x103304110> selector _preventSleepFired fireTime 18446744073709551615 deltaNanosec 2309-12-11 14:36:43 -0600 timerSource <OS_dispatch_source: 0x1003b82e0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003ce680> setFireDate 2017-08-31 20:52:52 +0000 and start with target <PCSimpleTimer: 0x103304110> selector _fireTimerFired fireTime 59935900509 deltaNanosec 2017-08-31 15:52:52 -0500 timerSource <OS_dispatch_source: 0x103305560>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: Invalidating timer <PCPersistentTimer: 0x1003f16d0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: Invalidating simple timer <PCSimpleTimer: 0x1003ed5b0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e9c60> is invalidated 
+Callstack (
+	0   PersistentConnection                0x00000001946b55cc <redacted> + 116
+	1   PersistentConnection                0x00000001946b2fb8 <redacted> + 292
+	2   PersistentConnection                0x000000019469f170 <redacted> + 188
+	3   com.apple.BackgroundTaskAgentPlugin 0x0000000100753f28 com.apple.BackgroundTaskAgentPlugin + 16168
+	4   com.apple.BackgroundTaskAgentPlugin 0x0000000100752d8c com.apple.BackgroundTaskAgentPlugin + 11660
+	5   com.apple.BackgroundTaskAgentPlugin 0x0000000100752978 com.apple.BackgroundTaskAgentPlugin + 10616
+	6   libdispatch.dylib                   0x000000019076e1bc <redacted> + 16
+	7   libdispatch.dylib                   0x000000019077af94 <redacted> + 576
+	8   libdispatch.dylib                   0x0000000190787634 <redacted> + 204
+	9   libdispatch.dylib                   0x0000000190770160 <redacted> + 820
+	10  libdispatch.dylib                   0x000000019077c210 <redacte
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x1003e9c60> dealloced
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x10024e540> is invalidated 
+Callstack (
+	0   PersistentConnection                0x00000001946b55cc <redacted> + 116
+	1   PersistentConnection                0x00000001946b2fd4 <redacted> + 320
+	2   PersistentConnection                0x000000019469f170 <redacted> + 188
+	3   com.apple.BackgroundTaskAgentPlugin 0x0000000100753f28 com.apple.BackgroundTaskAgentPlugin + 16168
+	4   com.apple.BackgroundTaskAgentPlugin 0x0000000100752d8c com.apple.BackgroundTaskAgentPlugin + 11660
+	5   com.apple.BackgroundTaskAgentPlugin 0x0000000100752978 com.apple.BackgroundTaskAgentPlugin + 10616
+	6   libdispatch.dylib                   0x000000019076e1bc <redacted> + 16
+	7   libdispatch.dylib                   0x000000019077af94 <redacted> + 576
+	8   libdispatch.dylib                   0x0000000190787634 <redacted> + 204
+	9   libdispatch.dylib                   0x0000000190770160 <redacted> + 820
+	10  libdispatch.dylib                   0x000000019077c210 <redacte
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x10024e540> dealloced
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: Canceling system wake for simpletimer [2017-08-31 16:44:22 -0500]
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Request to schedule wake 0 date 2017-08-31 16:44:22 -0500 leeway 0 service identifier BTA-PeriodicConditionMonitor unique identifier <PCSimpleTimer: 0x1003ed5b0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCPersistentTimer: 0x1003b2500> created <PCSimpleTimer: 0x1003e01d0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: Started simple timer <PCSimpleTimer: 0x1003e01d0> with fire date [2017-08-31 16:49:26 -0500]
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304e30> initialized with target <PCSimpleTimer: 0x1003e01d0> selector _preventSleepFired timerSource <OS_dispatch_source: 0x100390d00>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304470> initialized with target <PCSimpleTimer: 0x1003e01d0> selector _fireTimerFired timerSource <OS_dispatch_source: 0x1003b84f0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCSimpleTimer: 0x1003e01d0> created preventSleepTimer <PCDispatchTimer: 0x103304e30> and fireTimer <PCDispatchTimer: 0x103304470> on queue <OS_dispatch_queue: PCSimpleTimer-timerQ[0x1003d9b80]>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304470> start with target <CUTWeakReference: 0x103304270> selector _fireTimerFired firetime 18446744073709551615 timerSource <OS_dispatch_source: 0x1003b84f0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304e30> start with target <CUTWeakReference: 0x100330380> selector _preventSleepFired firetime 18446744073709551615 timerSource <OS_dispatch_source: 0x100390d00>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304e30> setFireDate 2017-08-31 21:49:11 +0000 and start with target <PCSimpleTimer: 0x1003e01d0> selector _preventSleepFired fireTime 141018630518 deltaNanosec 2017-08-31 16:49:11 -0500 timerSource <OS_dispatch_source: 0x100390d00>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCDispatchTimer: 0x103304470> setFireDate 2017-08-31 21:49:26 +0000 and start with target <PCSimpleTimer: 0x1003e01d0> selector _fireTimerFired fireTime 141378630510 deltaNanosec 2017-08-31 16:49:26 -0500 timerSource <OS_dispatch_source: 0x1003b84f0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCSimpleTimer: 0x1003e01d0> Existing wake at (null) re-scheduling to 2017-08-31 16:49:11 -0500 with leeway of 0
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Request to schedule wake 1 date 2017-08-31 16:49:11 -0500 leeway 0 service identifier BTA-PeriodicConditionMonitor unique identifier <PCSimpleTimer: 0x1003e01d0>
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: <PCInterfaceUsabilityMonitor: 0x10030be40> [NonCellular](en0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCPersistentTimer: 0x1003b2500> calculating _earlyFireDate. powerStateDetectionSupported = NO = (detectionSupported(NO) && (wwanIsUp(NO) || ! internetReachable(YES)))
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: Last system wake date (2017-08-31 15:11:31 -0500) was longer than half of the timer duration, so setting minimum fire date to fire date.
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCPersistentTimer: 0x1003b2500> Device is plugged in, overriding earlyFireProportion to be 1.0
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22] BTA-PeriodicConditionMonitor: <PCPersistentTimer: 0x1003b2500> Calculated minimum fire date [2017-08-31 16:49:26 -0500] (100%) with fire date [2017-08-31 16:49:26 -0500], start date [2017-08-31 15:49:26 -0500], minimum early fire proportion 0.45, power state detection supported: no, in high power state: no
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Disabling power monitoring for <PCSimpleTimer: 0x103304590> - 3 timers
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Enabling power monitoring for <PCSimpleTimer: 0x103304110> - 4 timers
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Disabling power monitoring for <PCSimpleTimer: 0x1003ed5b0> - 3 timers
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Enabling power monitoring for <PCSimpleTimer: 0x1003e01d0> - 4 timers
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Cancelling scheduled wake for 2017-08-31 16:44:22 -0500 wake identifier com.apple.persistentconnection[UserEventAgent,22,0x1003ed5b0,BTA-PeriodicConditionMonitor]
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Wake cancel for 'com.apple.persistentconnection[UserEventAgent,22,0x1003ed5b0,BTA-PeriodicConditionMonitor]'(com.apple.persistentconnection[UserEventAgent,22,schedulingwake-BTA-PeriodicConditionMonitor-SystemWakeManager(0x1003f1ca0)]) completed for [2017-08-31 16:44:22 -0500] (took 0.021 seconds; result code 0)
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Scheduling a wake for date 2017-08-31 16:49:11 -0500 leeway 0 wake identifier com.apple.persistentconnection[UserEventAgent,22,0x1003e01d0,BTA-PeriodicConditionMonitor]
+Aug 31 15:49:26 Ethans-Mini-4 UserEventAgent(PersistentConnection)[22] <Notice>: 2017-08-31 15:49:26 -0500 UserEventAgent[22]: Wake schedule for 'com.apple.persistentconnection[UserEventAgent,22,0x1003e01d0,BTA-PeriodicConditionMonitor]'(com.apple.persistentconnection[UserEventAgent,22,schedulingwake-BTA-PeriodicConditionMonitor-SystemWakeManager(0x103304970)]) completed for [2017-08-31 16:49:11 -0500] (took 0.003 seconds; result code 0)
+Aug 31 15:49:27 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30260224 score: -10.091887
+Aug 31 15:49:29 Ethans-Mini-4 searchd[163] <Info>: Index NSFileProtectionCompleteUntilFirstUserAuthentication sync
+Aug 31 15:49:29 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30290944 score: -10.091887
+Aug 31 15:49:29 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: Linger advertise ended
+Aug 31 15:49:29 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: BLE NearbyInfo advertiser stop
+Aug 31 15:49:29 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: Invalidating
+Aug 31 15:49:29 Ethans-Mini-4 sharingd(WirelessProximity)[58] <Notice>: NearBy stop advertising of type: 16
+Aug 31 15:49:29 Ethans-Mini-4 sharingd(CoreUtils)[58] <Notice>: Invalidated
+Aug 31 15:49:29 Ethans-Mini-4 wirelessproxd[56] <Notice>: Stop advertising for process sharingd (58) of type 16
+Aug 31 15:49:29 Ethans-Mini-4 wirelessproxd[56] <Notice>: Trying to remove an advertising request when there are no advert requests
+Aug 31 15:49:31 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30321664 score: -10.091887
+Aug 31 15:49:33 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Add 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:49:33 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: connect_callback: Adding FD for uid 501
+Aug 31 15:49:33 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(100, 0, 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) START PID[136](homed)
+Aug 31 15:49:33 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StartQuery_internal: NumAllInterfaceRecords 18 NumAllInterfaceQuestions 4 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:49:33 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) ADD    1 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. TXT
+Aug 31 15:49:33 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30352384 score: -10.091887
+Aug 31 15:49:34 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 151
+Aug 31 15:49:34 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 151
+Aug 31 15:49:35 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30383104 score: -10.091887
+Aug 31 15:49:35 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"adapter details", "adaperDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+Aug 31 15:49:35 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"battery capacity info", "batteryStatus":"<private>", "":"", "currentCapacity":"", "maximumCapacity":"4650", "batteryIsDifferent":"-120"}
+Aug 31 15:49:35 Ethans-Mini-4 coreduetd[96] <Notice>: CDDBatteryMonitor:	received batterycallback, currentPercentage:93.000000!
+Aug 31 15:49:37 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30413824 score: -10.091887
+Aug 31 15:49:38 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/AssistantServices.framework'
+Aug 31 15:49:38 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/PassKitCore.framework'
+Aug 31 15:49:38 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/PassbookRelevancy.bundle'
+Aug 31 15:49:38 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/PassKitCore.framework'
+Aug 31 15:49:39 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30444544 score: -10.091887
+Aug 31 15:49:39 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/HomeKitDaemon.framework'
+Aug 31 15:49:41 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30475264 score: -10.091887
+Aug 31 15:49:41 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/CoreParsec.framework'
+Aug 31 15:49:43 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30505984 score: -10.091887
+Aug 31 15:49:45 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/CoreParsec.framework'
+Aug 31 15:49:45 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30536704 score: -10.091887
+Aug 31 15:49:45 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/WirelessDiagnostics.framework'
+Aug 31 15:49:46 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client 'com.apple.locationd'
+Aug 31 15:49:47 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30567424 score: -10.091887
+Aug 31 15:49:47 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Rmv 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:49:47 Ethans-Mini-4 homed(HomeKitDaemon)[136] <Info>: [HMDHTTPMessageTransport EBFA8FD9-1052-5A21-B7FB-F6F846B8A0A5] Client is no longer advertising: <HMFNetService, Domain = local., Type = _homekit._tcp., Name = 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3, Port = 18446744073709551615, Addresses = (null)>
+Aug 31 15:49:47 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) STOP PID[136](homed)
+Aug 31 15:49:47 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StopQuery_internal:  NumAllInterfaceRecords 18 NumAllInterfaceQuestions 3 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:49:47 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: Removing FD
+Aug 31 15:49:48 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/Frameworks/CoreTelephony.framework'
+Aug 31 15:49:49 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30598144 score: -10.091887
+Aug 31 15:49:49 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/WifiCalling.bundle'
+Aug 31 15:49:49 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 152
+Aug 31 15:49:49 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 152
+Aug 31 15:49:50 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/MobileWiFi.framework'
+Aug 31 15:49:50 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30628864 score: -10.091887
+Aug 31 15:49:50 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/TimeZone.bundle'
+Aug 31 15:49:52 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30659584 score: -10.091887
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/TimeZone.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/CompassCalibration.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/MotionCalibration.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppSuggestions.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client 'com.apple.AppStore'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Traffic.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:49:53 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/AppGenius.bundle'
+Aug 31 15:49:54 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30690304 score: -10.091887
+Aug 31 15:49:56 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"adapter details", "adaperDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+Aug 31 15:49:56 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"battery capacity info", "batteryStatus":"<private>", "":"", "currentCapacity":"", "maximumCapacity":"4650", "batteryIsDifferent":"-120"}
+Aug 31 15:49:56 Ethans-Mini-4 coreduetd[96] <Notice>: CDDBatteryMonitor:	received batterycallback, currentPercentage:93.000000!
+Aug 31 15:49:56 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30721024 score: -10.091887
+Aug 31 15:49:57 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/Routine.bundle'
+Aug 31 15:49:57 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/MagicalMoments.bundle'
+Aug 31 15:49:58 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30751744 score: -10.091887
+Aug 31 15:50:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/NavdLocationBundleiOS.bundle'
+Aug 31 15:50:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/NavdLocationBundleiOS.bundle'
+Aug 31 15:50:00 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30782464 score: -10.091887
+Aug 31 15:50:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/RemindersAlerts.bundle'
+Aug 31 15:50:00 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/LocationBundles/CalendarLocation.bundle'
+Aug 31 15:50:02 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30813184 score: -10.091887
+Aug 31 15:50:04 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30843904 score: -10.091887
+Aug 31 15:50:04 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 153
+Aug 31 15:50:04 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 153
+Aug 31 15:50:06 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30874624 score: -10.091887
+Aug 31 15:50:08 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30905344 score: -10.091887
+Aug 31 15:50:10 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30936064 score: -10.091887
+Aug 31 15:50:11 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Add 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:50:11 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: connect_callback: Adding FD for uid 501
+Aug 31 15:50:11 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(100, 0, 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) START PID[136](homed)
+Aug 31 15:50:11 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StartQuery_internal: NumAllInterfaceRecords 18 NumAllInterfaceQuestions 4 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:50:11 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) ADD    1 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. TXT
+Aug 31 15:50:12 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30966784 score: -10.091887
+Aug 31 15:50:13 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 30997504 score: -10.091887
+Aug 31 15:50:14 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client 'com.apple.Home'
+Aug 31 15:50:15 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/BulletinBoard.framework'
+Aug 31 15:50:15 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 31028224 score: -10.091887
+Aug 31 15:50:16 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"adapter details", "adaperDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+Aug 31 15:50:16 Ethans-Mini-4 locationd[60] <Notice>: {"msg":"battery capacity info", "batteryStatus":"<private>", "":"", "currentCapacity":"", "maximumCapacity":"4650", "batteryIsDifferent":"-120"}
+Aug 31 15:50:16 Ethans-Mini-4 coreduetd[96] <Notice>: CDDBatteryMonitor:	received batterycallback, currentPercentage:93.000000!
+Aug 31 15:50:17 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 31058944 score: -10.091887
+Aug 31 15:50:19 Ethans-Mini-4 locationd[60] <Notice>: message 'kCLConnectionMessageWatchdog' received from client '/System/Library/PrivateFrameworks/FMF.framework'
+Aug 31 15:50:19 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Callback Watchdog: checkin 154
+Aug 31 15:50:19 Ethans-Mini-4 CommCenter[76] <Notice>: #watchdog #I Server Watchdog: checkin 154
+Aug 31 15:50:19 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 31089664 score: -10.091887
+Aug 31 15:50:21 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 31120384 score: -10.091887
+Aug 31 15:50:23 Ethans-Mini-4 mediaserverd(VoiceTrigger)[27] <Info>: ::: heartbeat: 31151104 score: -10.091887
+Aug 31 15:50:24 Ethans-Mini-4 mDNSResponder[89] <Info>:  15: DNSServiceBrowse(_homekit._tcp.local., PTR) RESULT Rmv 3:   58 _homekit._tcp.local. PTR 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local.
+Aug 31 15:50:24 Ethans-Mini-4 homed(HomeKitDaemon)[136] <Info>: [HMDHTTPMessageTransport EBFA8FD9-1052-5A21-B7FB-F6F846B8A0A5] Client is no longer advertising: <HMFNetService, Domain = local., Type = _homekit._tcp., Name = 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3, Port = 18446744073709551615, Addresses = (null)>
+Aug 31 15:50:24 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: DNSServiceQueryRecord(7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local., TXT) STOP PID[136](homed)
+Aug 31 15:50:24 Ethans-Mini-4 mDNSResponder[89] <Info>: mDNS_StopQuery_internal:  NumAllInterfaceRecords 18 NumAllInterfaceQuestions 3 7F65553B-D54C-5C6D-B48E-5A8DFBFD8BB3._homekit._tcp.local. (TXT)
+Aug 31 15:50:24 Ethans-Mini-4 mDNSResponder[89] <Info>:  17: Removing FD
+
